@@ -76,8 +76,6 @@ const Create = () => {
                                         />
                                     )
                                 })) ?? []
-
-                                
                             }
                         />
                     </Form.Item>
