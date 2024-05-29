@@ -128,7 +128,7 @@ export const CompanyListPage = ({ children }: React.PropsWithChildren) => {
             }}
           />
           <Table.Column<Company>
-            dataIndex={"totalRevenue"}
+            // dataIndex={'totalRevenue'}
             title="Open deals amount"
             render={(_, company) => {
               return (
