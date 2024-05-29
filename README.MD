@@ -1,4 +1,4 @@
-# CRM dashboard buil with Refine JS framework of React JS
+# CRM dashboard built with Refine JS 
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
