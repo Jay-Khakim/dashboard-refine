@@ -1,49 +1,41 @@
-# dashboard-refine
+# CRM dashboard buil with Refine JS framework of React JS
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
-    <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
+    <img alt="refine logo" src="./src/images/Dashboard-refine.png">
     </a>
 </div>
 <br/>
 
-This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app).
+## Tech Stack
 
-## Getting Started
+- Refine
+- TypeScript
+- GraphQL
+- Ant Design
+- Codegen
+- Vite
 
-A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility ✨
 
-Refine's hooks and components simplifies the development process and eliminates the repetitive tasks by providing industry-standard solutions for crucial aspects of a project, including authentication, access control, routing, networking, state management, and i18n.
+## Features
 
-## Available Scripts
+**Authentication**: Seamless onboarding with secure login and signup functionalities; robust password recovery ensures a smooth authentication experience.
 
-### Running the development server.
+**Authorization**: Granular access control regulates user actions, maintaining data security and user permissions.
 
-```bash
-    npm run dev
-```
+**Home Page**: Dynamic home page showcases interactive charts for key metrics; real-time updates on activities, upcoming events, and a deals chart for business insights.
 
-### Building for production.
+**Companies Page**: Complete CRUD for company management and sales processes; detailed profiles with add/edit functions, associated contacts/leads, pagination, and field-specific search.
 
-```bash
-    npm run build
-```
+**Kanban Board**: Collaborative board with real-time task updates; customization options include due dates, markdown descriptions, and multi-assignees, dynamically shifting tasks across dashboards.
 
-### Running the production server.
+**Account Settings**: Personalized user account settings for profile management; streamlined configuration options for a tailored application experience.
 
-```bash
-    npm run start
-```
+**Responsive**: Full responsiveness across devices for consistent user experience; fluid design adapts seamlessly to various screen sizes, ensuring accessibility.
 
-## Learn More
+<br>
 
-To learn more about **Refine**, please check out the [Documentation](https://refine.dev/docs)
+![Product Edit Page](https://refine.ams3.cdn.digitaloceanspaces.com/example-readmes/CRM-Minimal/crm-demo.gif "Demo GIF")
 
-- **NestJS Query Data Provider** [Docs](https://refine.dev/docs/data/packages/nestjs-query/)
-- **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-- **Custom Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
+<br>
 
-## License
-
-MIT
