@@ -1,6 +1,6 @@
 # CRM dashboard built with Refine JS 
 
-For demo click the link https://dashboard-refine-psi.vercel.app/
+For demo click visit website CRM - REfine JS(https://dashboard-refine-psi.vercel.app/)
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
