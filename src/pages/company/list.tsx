@@ -14,12 +14,11 @@ import { GetFieldsFromList } from "@refinedev/nestjs-query";
 import { SearchOutlined } from "@ant-design/icons";
 import { Input, Space, Table } from "antd";
 
-import { CustomAvatar, PaginationTotal } from "@/components";
+import { CustomAvatar, PaginationTotal, Text } from "@/components";
 import { CompaniesListQuery } from "@/graphql/types";
 import { currencyNumber } from "@/utilities";
 
 import { COMPANIES_LIST_QUERY } from "./queries";
-import { Text } from "@/components/text";
 
 type Company = GetFieldsFromList<CompaniesListQuery>;
 
